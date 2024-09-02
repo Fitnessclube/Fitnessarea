@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Fitness Journey</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background: #007b5e;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #007b5e;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background: #007b5e;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Fitness Journey</h1>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>Introduction</h2>
+            <p>Welcome to your fitness journey! Whether you're a beginner or a seasoned athlete, this page is designed to provide you with tips, routines, and advice to help you achieve your fitness goals.</p>
+        </section>
+
+        <section>
+            <h2>Benefits of Fitness</h2>
+            <p>Fitness isn't just about looking good; it's about feeling good too. Regular exercise improves mental health, increases energy levels, and reduces the risk of chronic diseases.</p>
+        </section>
+
+        <section>
+            <h2>Fitness Tips</h2>
+            <ul>
+                <li>Stay consistent with your workouts.</li>
+                <li>Incorporate both cardio and strength training.</li>
+                <li>Listen to your body and rest when needed.</li>
+                <li>Set realistic goals and track your progress.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Workout Routines</h2>
+            <p>Here are a few workout routines to get you started:</p>
+            <ul>
+                <li><strong>Beginner:</strong> 30 minutes of brisk walking, 3 times a week.</li>
+                <li><strong>Intermediate:</strong> Circuit training combining cardio and weights, 4 times a week.</li>
+                <li><strong>Advanced:</strong> High-Intensity Interval Training (HIIT) and strength training, 5 times a week.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Nutrition Advice</h2>
+            <p>Proper nutrition is key to fueling your body and achieving your fitness goals. Focus on a balanced diet with a mix of protein, carbs, and healthy fats. Stay hydrated and consider consulting with a nutritionist for personalized advice.</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>Stay active, stay healthy!</p>
+    </footer>
+</body>
+</html>
